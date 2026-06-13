@@ -1,0 +1,21 @@
+# Secrets
+.env
+.env.local
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editor / OS
+.DS_Store
+.vscode/
+
+# Internal — not published
+GENLAYER_PROJECT_GENERATOR_PROMPT.md
